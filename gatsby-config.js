@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Open Eugene Festival',
   },
+  pathPrefix: '/OpenEugeneFestivalWeb',
   plugins: [
     'gatsby-plugin-react-helmet',
     {
