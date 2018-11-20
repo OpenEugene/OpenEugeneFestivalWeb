@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Link } from 'gatsby'
+//import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
 
@@ -30,7 +30,6 @@ class ProjectsPage extends Component {
         <hr></hr>
         <h2>Projects already on their way!</h2>
         {projectCards}
-        <Link to="/">Go back to the homepage</Link>
       </Layout>
     )
   }
