@@ -28,6 +28,7 @@ class ProjectsPage extends Component {
           Fill in the <a href="https://goo.gl/forms/xQsoEPznuxRDdhNz2" target="_blank" rel="noopener noreferrer">project form here</a>
         </h3>
         <hr></hr>
+        <h2>Projects already on their way!</h2>
         {projectCards}
         <Link to="/">Go back to the homepage</Link>
       </Layout>
