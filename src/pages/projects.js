@@ -5,7 +5,7 @@ import Layout from '../components/layout'
 
 import projects from '../json/projects'
 import ProjectCard from '../components/projectCard'
-
+// regEx to clean emails: "Email Address":.+
 class ProjectsPage extends Component {
   render() {
     const projectCards = projects.map((project, i) => {
