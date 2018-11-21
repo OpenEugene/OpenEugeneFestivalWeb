@@ -624,4 +624,7 @@ pre tt:after {
   iframe {
     width: 100%;
   }
+  .mapContainer {
+    display: block !important;
+  }
 }
