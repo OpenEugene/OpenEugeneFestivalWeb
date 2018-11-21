@@ -6,7 +6,7 @@ import Layout from '../components/layout'
 const Sponsors = () => (
   <Layout>
     <h1>Open Eugene Sponsors</h1>
-    <p>List of sponsors and their logos</p>
+    <h3><a href="https://eugtech.github.io/Open-Eugene/open-eugene-fest-sponsorship.pdf">Become a sponsor!</a></h3>
   </Layout>
 )
 
