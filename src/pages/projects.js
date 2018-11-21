@@ -6,10 +6,16 @@ import Layout from '../components/layout'
 import projects from '../json/projects'
 import ProjectCard from '../components/projectCard'
 // regEx to clean emails: "Email Address":.+
+
+import programs from '../json/programming';
+import ProgrammingCard from '../components/programmingCard'
 class ProjectsPage extends Component {
   render() {
     const projectCards = projects.map((project, i) => {
       return <ProjectCard {...project} />
+    })
+    const programmingCards = programs.map((program, i) => {
+      return <ProgrammingCard {...program} />
     })
     return (
       <Layout>
@@ -36,6 +42,11 @@ class ProjectsPage extends Component {
         </h3>
         <h4><a href="https://github.com/EugTech/Open-Eugene/blob/master/CODE_OF_CONDUCT.md">View Code of Conduct</a></h4>
         <hr />
+        
+        <h2>Presentations to look forward to!</h2>
+        {programmingCards}
+        <hr />
+
         <h2>Projects already on their way!</h2>
         {projectCards}
       </Layout>
