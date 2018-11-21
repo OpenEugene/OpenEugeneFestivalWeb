@@ -30,7 +30,7 @@ const IndexPage = () => (
         <li>2) easy to share, remix and build on, and</li>
         <li>3) welcoming to all participants, from any background.</li>
       </ul>
-      <blockquote style={{background: '#aaa'}}>Open Eugene Festival is a great space to experience and experiment with
+      <blockquote style={{background: '#00faff'}}>Open Eugene Festival is a great space to experience and experiment with
       this approach<br />—we call it “working open”</blockquote>
     <p>
       The Festival is part hack-a-thon, part conference, part art exhibition. We
