@@ -2,11 +2,11 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 const ListLink = props => (
-  <li style={{ display: `inline-block` }}>
+  <li style={{ display: `inline-block`, marginRight: '1rem' }}>
     <Link
       to={props.to}
-      activeStyle={{ background: '#33333388' }}
-      style={{ color: 'white', textDecoration: 'none', padding: '1rem' }}
+      activeStyle={{ background: '#2b2b2b', color: 'white' }}
+      style={{ color: '#2b2b2b', textDecoration: 'none' }}
     >
       {props.children}
     </Link>

@@ -5,7 +5,7 @@ import Navbar from './navbar';
 const Header = ({ siteTitle }) => (
   <div
     style={{
-      background: 'rebeccapurple',
+      background: 'linear-gradient(to right, #00ff6d, #00faff)' ,
       marginBottom: '1.45rem',
       display: 'flex',
       flexWrap: 'wrap',
@@ -23,7 +23,7 @@ const Header = ({ siteTitle }) => (
         <Link
           to="/"
           style={{
-            color: 'white',
+            color: '#2b2b2b',
             textDecoration: 'none',
           }}
         >
