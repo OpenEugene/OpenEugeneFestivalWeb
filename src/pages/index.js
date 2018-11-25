@@ -42,7 +42,7 @@ const IndexPage = () => (
     <h3>When and Where</h3>
     {/* made responsive in layout.css */}
     <div style={{display: 'flex'}} className="mapContainer">
-      <p>Open Eugene Fest will be happening Friday-Saturday December 14th & 15th 2018 at <a href="https://www.trifoia.com" target="_blank" rel="noopener noreferrer">Triforia</a>.</p>
+      <p>Open Eugene Fest will be happening Friday-Saturday December 14th & 15th 2018 at <a href="https://www.trifoia.com" target="_blank" rel="noopener noreferrer">Trifoia</a>.</p>
       <iframe title="Trifoia map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2867.7874124852015!2d-123.09462638451642!3d44.04644667910977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c11e151476cab1%3A0x21f72062e230b3cd!2sTrifoia!5e0!3m2!1sen!2sus!4v1542760773176" width="300" height="200" frameBorder="0" style={{border: 0}} allowFullScreen></iframe>
     </div>
     <hr />
