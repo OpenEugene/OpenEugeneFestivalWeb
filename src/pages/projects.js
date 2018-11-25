@@ -12,10 +12,10 @@ import ProgrammingCard from '../components/programmingCard'
 class ProjectsPage extends Component {
   render() {
     const projectCards = projects.map((project, i) => {
-      return <ProjectCard {...project} />
+      return <ProjectCard key={i} {...project} />
     })
     const programmingCards = programs.map((program, i) => {
-      return <ProgrammingCard {...program} />
+      return <ProgrammingCard key={i} {...program} />
     })
     return (
       <Layout>
