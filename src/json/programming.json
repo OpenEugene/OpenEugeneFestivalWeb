@@ -1,10 +1,9 @@
 [
   {
-    "Timestamp": "11/16/2018 13:52:45",
-    "Email Address": "notto@concentricsky.com",
+    "Timestamp": "2018-11-16T21:52:44.772Z",
     "Your Name": "Nate Otto",
     "Program Name": "Recognizing Contributions with Open Badges",
-    "Shorter Description (the tweet version 140 chars)": "Learn how to use Open Badges to give and get recognition for all the important work that goes into open software and open data!",
+    "Shorter Description (the tweet version 140 chars)": "Learn how to use Open Badges to give and get recognition for all the important work that goes into open software and open data! ",
     "Longer Description": "We often forget to give recognition for the time and effort that community members put into our open projects. That's true across open source and open data initiatives as well as local community efforts for learning and community building. Open Badges are a great tools to provide recognition, and Open Pathways give your community members understanding of what activities are valuable and open to their participation as well as the ability to share their accomplishments with potential employers and collaborators. Learn how to use Open Badges to recognize what's important in your open community, and earn a badge for yourself for participating at Open Eugene Festival.",
     "Link to slide deck or repo": "https://github.com/concentricsky/badgr-server",
     "Your Twitter or GitHub handle": "https://twitter.com/ottonomy https://github.com/ottonomy",
@@ -14,14 +13,13 @@
     "Venue Preference": ""
   },
   {
-    "Timestamp": "11/21/2018 12:44:01",
-    "Email Address": "nikole@thatsupergirl.com",
+    "Timestamp": "2018-11-21T20:44:00.849Z",
     "Your Name": "Nikole Gipps",
-    "Program Name": "The Eugene Coding Initiative",
-    "Shorter Description (the tweet version 140 chars)": "a discussion of open-source education and The Eugene Coding Initiative",
-    "Longer Description": "We'll talk about how to open up your education platforms, create equitable education that is available to all, and what we're doing in Lane County to teach kids how to code using robots",
+    "Program Name": "Open Sourcing Education",
+    "Shorter Description (the tweet version 140 chars)": "Learn why we should open-source education and how you can get involved in The Eugene Coding Initiative",
+    "Longer Description": "Education currently works on a very pay-to-play model - the schools that have the most resources can afford to purchase expensive curriculum programs and the highest-grossing curriculum companies gain the influential means to continue that cycle. The gap between the haves and the have-nots is growing wider every day, while the diversity in education dies off. We need to reduce the barriers to CS education and level the playing field. We'll talk about how to open up your education platforms, create equitable education that is available to all, and what we're doing in Lane County to teach kids how to code.",
     "Link to slide deck or repo": "https://github.com/codeeug",
-    "Your Twitter or GitHub handle": "websupergirl",
+    "Your Twitter or GitHub handle": "https://twitter.com/websupergirl",
     "Link to speakers public profile (linked-in, Medium, or...)": "https://www.linkedin.com/in/nhgnikole/",
     "Second speakers public profile (linked-in, Medium, or...)": "",
     "Type of program": "Talk",
