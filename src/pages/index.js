@@ -25,11 +25,11 @@ const IndexPage = () => (
       You’ll see Mozilla’s ethos of “open” in action at the festival – it’s
       about making concepts and projects
     </p>
-      <ul>
-        <li>1) easy to understand,</li>
-        <li>2) easy to share, remix and build on, and</li>
-        <li>3) welcoming to all participants, from any background.</li>
-      </ul>
+      <ol>
+        <li>Easy to understand,</li>
+        <li>Easy to share, remix and build on, and</li>
+        <li>Welcoming to all participants, from any background.</li>
+      </ol>
       <blockquote style={{background: '#00faff'}}>Open Eugene Festival is a great space to experience and experiment with
       this approach<br />—we call it “working open”</blockquote>
     <p>
