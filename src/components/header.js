@@ -8,7 +8,7 @@ const Header = ({ siteTitle }) => (
     style={{
       background: `url(${backgroundBox})` ,
       backgroundSize: 'cover',
-      height: '30vh',
+      padding: '2rem',
       marginBottom: '1.45rem',
       textAlign: 'center',
     }}
