@@ -15,7 +15,7 @@ const ListLink = props => (
 
 const Navbar = ({ children }) => (
   <div>
-    <ul style={{ listStyle: `none`, float: `right`, margin: 'auto' }}>
+    <ul style={{ listStyle: `none`, margin: 'auto' }}>
       <ListLink to="/">Home</ListLink>
       <ListLink to="/projects">Projects</ListLink>
       <ListLink to="/sponsors">Sponsors</ListLink>
