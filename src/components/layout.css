@@ -7,6 +7,9 @@ html {
 }
 body {
   margin: 0;
+  background: url(../images/Cube.svg);
+  background-Size: cover;
+  background-attachment: fixed;
 }
 p, li, blockquote {
   color: #686767;
