@@ -1,15 +1,16 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import Navbar from './navbar';
+import backgroundBox from '../images/BackgroundBox.png'
 
 const Header = ({ siteTitle }) => (
   <div
     style={{
-      background: 'linear-gradient(to right, #00ff6d, #00faff)' ,
+      background: `url(${backgroundBox})` ,
+      backgroundSize: 'cover',
+      padding: '2rem',
       marginBottom: '1.45rem',
-      display: 'flex',
-      flexWrap: 'wrap',
-      alignItems: 'center',
+      textAlign: 'center',
     }}
   >
     <div
@@ -25,6 +26,7 @@ const Header = ({ siteTitle }) => (
           style={{
             color: '#2b2b2b',
             textDecoration: 'none',
+            fontSize: '4rem'
           }}
         >
           {siteTitle}
