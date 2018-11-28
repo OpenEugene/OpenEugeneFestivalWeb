@@ -10,11 +10,15 @@ const IndexPage = () => (
     {/* textAlign-ed div added to center youTube iframe
         Media query in Layout.css changes width to 100% at 560px so it will be responsive on mobile */}
     <div style={{ textAlign: 'center' }}>
-    <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/PZojOfxjPPg" 
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-
+    <iframe
+        title="5-min Open Eugene Explaination c/ Mark Davis"
+        width="560"
+        height="315"
+        src="https://www.youtube-nocookie.com/embed/PZojOfxjPPg"
+        frameBorder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      />    </div>
     <p>
       You’ll see Mozilla’s ethos of “open” in action at the festival – it’s
       about making concepts and projects
