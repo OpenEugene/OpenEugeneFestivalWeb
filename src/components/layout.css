@@ -642,4 +642,8 @@ pre tt:after {
     display: block !important;
     text-align: center;
   }
+  .allTheThingsLogo {
+    width: 100% !important;
+    float: none !important;
+  }
 }
