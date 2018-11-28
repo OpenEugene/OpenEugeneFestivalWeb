@@ -1,0 +1,56 @@
+[
+  {
+    "Level": "Presenting",
+    "Name": "Concentric Sky",
+    "Link": "https://www.concentricsky.com/",
+    "LogoURL": "logo_csky.png"
+  },
+  {
+    "Level": "Supporting",
+    "Name": "moovel North America",
+    "Link": "https://www.moovel-group.com",
+    "LogoURL": ""
+  },
+  {
+    "Level": "Community",
+    "Name": "SiliconShire",
+    "Link": "https://siliconshire.org/",
+    "LogoURL": ""
+  },
+  {
+    "Level": "Community",
+    "Name": "The Barn Light",
+    "Link": "https://thebarnlightbar.com",
+    "LogoURL": ""
+  },
+  {
+    "Level": "Supporting",
+    "Name": "RAIN",
+    "Link": "www.raineugene.org",
+    "LogoURL": ""
+  },
+  {
+    "Level": "Community",
+    "Name": "XS Media",
+    "Link": "https://xsmedia.com",
+    "LogoURL": ""
+  },
+  {
+    "Level": "Presenting",
+    "Name": "Badgr",
+    "Link": "https://badgr.org",
+    "LogoURL": ""
+  },
+  {
+    "Level": "Community",
+    "Name": "thanks.org",
+    "Link": "https://thanks.org",
+    "LogoURL": ""
+  },
+  {
+    "Level": "Community",
+    "Name": "EugeneTech",
+    "Link": "https://EugeneTech.org",
+    "LogoURL": ""
+  }
+]
