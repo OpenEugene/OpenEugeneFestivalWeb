@@ -6,6 +6,7 @@ import {
   faFacebook,
   faInstagram,
 } from '@fortawesome/free-brands-svg-icons'
+import eugTechLogo from '../images/EUG_TECH_switchlogo_ROUNDnameWHITE.png'
 
 const Footer = () => (
   <div
@@ -23,34 +24,37 @@ const Footer = () => (
         flexWrap: 'wrap',
       }}
     >
-      <a
-        href="https://github.com/EugTech"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <FontAwesomeIcon icon={faGithub} />
-      </a>
-      <a
-        href="https://twitter.com/EugTech"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <FontAwesomeIcon icon={faTwitter} />
-      </a>
-      <a
-        href="https://www.facebook.com/EugTech/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <FontAwesomeIcon icon={faFacebook} />
-      </a>
-      <a
-        href="https://www.instagram.com/eugtech/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <FontAwesomeIcon icon={faInstagram} />
-      </a>
+      <img src={eugTechLogo} alt="Eugene Tech Logo" style={{width: 150,  margin: '8px' }}/>
+      <div>
+        <a
+          href="https://github.com/EugTech"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FontAwesomeIcon icon={faGithub} />
+        </a>
+        <a
+          href="https://twitter.com/EugTech"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FontAwesomeIcon icon={faTwitter} />
+        </a>
+        <a
+          href="https://www.facebook.com/EugTech/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FontAwesomeIcon icon={faFacebook} />
+        </a>
+        <a
+          href="https://www.instagram.com/eugtech/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FontAwesomeIcon icon={faInstagram} />
+        </a>
+      </div>
 
       <img
         src="https://siliconshire.org/static/images/stamp_made_white.png"
@@ -58,8 +62,15 @@ const Footer = () => (
         style={{ margin: 0 }}
       />
     </div>
-    <div style={{textAlign: 'center', paddingBottom: '1rem', background: '#68676788'}}>
-      <a style={{color: 'white'}}
+    <div
+      style={{
+        textAlign: 'center',
+        paddingBottom: '1rem',
+        background: '#68676788',
+      }}
+    >
+      <a
+        style={{ color: 'white' }}
         href="https://www.facebook.com/events/196679251226823/"
         target="_blank"
         rel="noopener noreferrer"
