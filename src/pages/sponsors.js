@@ -22,26 +22,20 @@ class Sponsors extends Component {
         {/* {sponsorCards.filter(card => card.props.Level === 'Title')} */}
         Your logo here!
         <hr />
-
         <h3>Presenting Sponsors</h3>
-        <div
-          style={{
-            display: 'flex',
-            justifyContent: 'space-evenly',
-            flexWrap: 'wrap',
-          }}
-        >
+        <div className="sponsorContainer">
           {sponsorCards.filter(card => card.props.Level === 'Presenting')}
         </div>
         <hr />
-
         <h3>Supporting Sponsors</h3>
-        <div className="sponsorContainer">{sponsorCards.filter(card => card.props.Level === 'Supporting')}</div>
-
+        <div className="sponsorContainer">
+          {sponsorCards.filter(card => card.props.Level === 'Supporting')}
+        </div>
         <hr />
-
         <h3>Community Sponsors</h3>
-        <div className="sponsorContainer">{sponsorCards.filter(card => card.props.Level === 'Community')}</div>
+        <div className="sponsorContainer">
+          {sponsorCards.filter(card => card.props.Level === 'Community')}
+        </div>
       </Layout>
     )
   }
