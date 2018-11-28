@@ -20,6 +20,20 @@ p, li, blockquote {
   margin: 1rem;
 }
 
+.sponsorContainer {
+  display: flex;
+  justify-content: space-evenly;
+  flex-Wrap: wrap;
+}
+
+.Presenting {
+  font-size: 3rem;
+}
+
+.Supporting {
+  font-size: 2rem;
+}
+
 article,
 aside,
 details,
