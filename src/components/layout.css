@@ -638,4 +638,8 @@ pre tt:after {
   .mapContainer {
     display: block !important;
   }
+  .socialMediaIcons {
+    display: block !important;
+    text-align: center;
+  }
 }
