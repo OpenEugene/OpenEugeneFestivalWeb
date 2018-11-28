@@ -18,6 +18,7 @@ const Navbar = ({ children }) => (
     <ul style={{ listStyle: `none`, margin: 'auto' }}>
       <ListLink to="/">Home</ListLink>
       <ListLink to="/projects">Projects</ListLink>
+      <ListLink to="/sessions">Sessions</ListLink>
       <ListLink to="/sponsors">Sponsors</ListLink>
       <ListLink to="/about">About</ListLink>
     </ul>
