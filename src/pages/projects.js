@@ -57,12 +57,6 @@ class ProjectsPage extends Component {
             project form here
           </a>
         </h3>
-
-        <h4>
-          <a href="https://github.com/EugTech/Open-Eugene/blob/master/CODE_OF_CONDUCT.md">
-            View Code of Conduct
-          </a>
-        </h4>
         <hr />
 
         <h2>Projects already on their way!</h2>

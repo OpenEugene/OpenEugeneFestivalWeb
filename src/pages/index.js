@@ -137,6 +137,11 @@ const IndexPage = () => (
         Signup as a Contributor, Volunteer, or Buy a Ticket on eventbrite
       </a>
     </h3>
+    <h4>
+      <a href="https://github.com/EugTech/Open-Eugene/blob/master/CODE_OF_CONDUCT.md">
+        View Code of Conduct
+      </a>
+    </h4>
   </Layout>
 )
 
