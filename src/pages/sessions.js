@@ -11,7 +11,7 @@ class Sessions extends Component {
     })
     return (
       <Layout>
-        <h3>Present a Session!</h3>
+        <h3 style={{ textAlign: 'center' }}>Present a Session!</h3>
         <p>
           Do you have a case study to talk about, or plans to provide open-data?
           Can teach a class on using Github pages, or lead a workshop on
@@ -28,7 +28,7 @@ class Sessions extends Component {
             programming form here
           </a>
         </h3>
-        <h2>Presentations to look forward to!</h2>
+        <h2 style={{ textAlign: 'center' }}>Presentations to look forward to!</h2>
         {programmingCards}
         <hr />
 

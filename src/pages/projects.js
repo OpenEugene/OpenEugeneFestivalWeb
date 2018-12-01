@@ -11,9 +11,19 @@ class ProjectsPage extends Component {
     })
     return (
       <Layout>
-        <h2>Eugene Open Source Projects</h2>
+        <h2 style={{ textAlign: 'center' }}>Eugene Open Source Projects</h2>
         <hr />
-        <h3>Bring you Project, We'll help you open it!</h3>
+        <h3 style={{ textAlign: 'center' }}>Bring you Project, We'll help you open it!</h3>
+        <h3 style={{ textAlign: 'center' }}>
+          Fill in the{' '}
+          <a
+            href="https://goo.gl/forms/xQsoEPznuxRDdhNz2"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            project form here
+          </a>
+        </h3>
         <p>
           Bring your project and we'll help you open it! No matter the current
           state of your project, we can make it more open.{' '}

@@ -32,15 +32,15 @@ const IndexPage = () => (
       gathering of open enthusiasts in the Eugene Oregon region. Our theme is
       “Open all the Things!”
     </p>
-    <h3> Signup as a Contributor, Volunteer, or Buy a Ticket on 
+    <h4> Signup as a Contributor, Volunteer, or Buy a Ticket on &nbsp; 
       <a
         href="https://www.eventbrite.com/e/open-eugene-festival-tickets-52110392587"
         target="_blank"
         rel="noopener noreferrer"
       >
-       Eventbrite
+       Eventbrite 
       </a>
-      or
+      &nbsp; or &nbsp; 
       <a
         href="https://www.facebook.com/events/196679251226823/"
         target="_blank"
@@ -48,7 +48,7 @@ const IndexPage = () => (
       > 
       Facebook
       </a>
-    </h3>
+    </h4>
     <img
       style={{ float: 'right', width: '350px' }}
       className="allTheThingsLogo"

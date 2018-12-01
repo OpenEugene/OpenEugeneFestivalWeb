@@ -19,10 +19,11 @@ class About extends Component {
  
     return (
       <Layout>
-        <h2>About Us...</h2>
+        <h2 style={{textAlign: 'center'}}>About Us...</h2>
 
-        <h3>Open Data :: Open Software :: Open Hardware :: Open Projects</h3>
-    <p>Participants can learn from Mozilla Open Leaders the basics of running open projects. Various local projects from teams at the University of Oregon (Open Data), Downtown Eugene artists (Open Hardware), Local Software Companies (Open Source Software) will be “Working Open” through the weekend in hands-on workshops. Bring your own projects and we’ll help you pick the right open source or creative commons license to help share your work with the world. Bring your energy and we’ll help you collaborate.</p>
+        <h3 style={{textAlign: 'center'}}>Open Data :: Open Software :: Open Hardware :: Working Open</h3>
+    <p>Participants can learn from local Open Leaders the basics of running open projects. W'ell be “Working Open” through the weekend in hands-on workshops. Bring your energy and we’ll help you collaborate.</p>
+    <p>This all started with a "Call for Leaders" on the EugeneTech Switcboard. The folks below stepped up.</p>
     <hr />
         <h3 style={{textAlign: 'center'}}>Leadership Team</h3>
         

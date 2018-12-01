@@ -11,27 +11,27 @@ class Sponsors extends Component {
 
     return (
       <Layout>
-        <h2>Open Eugene Sponsors</h2>
+        <h2 style={{ textAlign: 'center' }}>Open Eugene Sponsors</h2>
         <h3>
           <a href="https://eugtech.github.io/Open-Eugene/open-eugene-fest-sponsorship.pdf">
           </a>
         </h3>
         <hr />
-        <h3>Title Sponsor</h3>
+        <h3 style={{ textAlign: 'center' }}>Title Sponsor</h3>
           {sponsorCards.filter(card => card.props.Level === 'Title')}
         {/* {sponsorCards.filter(card => card.props.Level === 'Title')} */}
         <hr />
-        <h3>Presenting Sponsors</h3>
+        <h3 style={{ textAlign: 'center' }}>Presenting Sponsors</h3>
         <div className="sponsorContainer">
           {sponsorCards.filter(card => card.props.Level === 'Presenting')}
         </div>
         <hr />
-        <h3>Supporting Sponsors</h3>
+        <h3 style={{ textAlign: 'center' }}>Supporting Sponsors</h3>
         <div className="sponsorContainer">
           {sponsorCards.filter(card => card.props.Level === 'Supporting')}
         </div>
         <hr />
-        <h3>Community Sponsors</h3>
+        <h3 style={{ textAlign: 'center' }}>Community Sponsors</h3>
         <div className="sponsorContainer">
           {sponsorCards.filter(card => card.props.Level === 'Community')}
         </div>

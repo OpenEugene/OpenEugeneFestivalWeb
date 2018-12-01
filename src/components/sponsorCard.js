@@ -10,8 +10,7 @@ const SponsorCard = props => {
   return (
     <div>
           <a href={props.Link} style={{textAlign: "center"}}>
-        <h4 className={props.Level}>{props.Name}</h4>
-            {props.LogoURL !== "" ? (<img src={logoSrc} alt={props.Name}/>) : ''}
+            {props.LogoURL !== "" ? (<img src={logoSrc} alt={props.Name}/>) : ( <h4 className={props.Level}>{props.Name}</h4>)}
           </a>
     </div>
   );
