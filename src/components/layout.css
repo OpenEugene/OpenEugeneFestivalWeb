@@ -26,12 +26,24 @@ p, li, blockquote {
   flex-Wrap: wrap;
 }
 
+.Title {
+  font-size: 4rem;
+}
+
 .Presenting {
   font-size: 3rem;
 }
 
 .Supporting {
   font-size: 2rem;
+}
+
+.Supporting+ img {
+  width: 200px;
+}
+
+.Community+ img {
+  width: 175px;
 }
 
 article,

@@ -24,7 +24,7 @@
     "Level": "Community",
     "Name": "The Barn Light",
     "Link": "https://thebarnlightbar.com",
-    "LogoURL": "",
+    "LogoURL": "logo_barnlight.jpg",
     "misc": ""
   },
   {
@@ -38,15 +38,15 @@
     "Level": "Community",
     "Name": "XS Media",
     "Link": "https://xsmedia.com",
-    "LogoURL": "logo_xsmedia_black.eps",
+    "LogoURL": "logo_xsmedia_black.png",
     "misc": ""
   },
   {
     "Level": "Presenting",
     "Name": "Badgr",
     "Link": "https://badgr.org",
-    "LogoURL": "",
-    "misc": "Not using Badgr logo for T-shirts. Cale will be presenting Badgr at the event."
+    "LogoURL": "logo_badgr.svg",
+    "misc": ""
   },
   {
     "Level": "Community",
@@ -65,8 +65,15 @@
   {
     "Level": "Title",
     "Name": "Emerald Broadband",
-    "Link": "",
+    "Link": "https://www.emeraldbroadband.com/",
     "LogoURL": "logo_emerald.png",
+    "misc": ""
+  },
+  {
+    "Level": "Community",
+    "Name": "RWIT",
+    "Link": "https://redefiningwomenintech.com/",
+    "LogoURL": "logo_rwit.png",
     "misc": ""
   }
 ]
