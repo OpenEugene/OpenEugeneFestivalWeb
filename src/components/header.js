@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import Navbar from './navbar';
 import backgroundBox from '../images/BackgroundBox.png'
-
+import logo from '../images/SponsorLogos/logo_emeralds.png'
 const Header = ({ siteTitle }) => (
   <div
     style={{
@@ -32,6 +32,8 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
+        <h3>Presented By...</h3>
+        <img src={logo} alt="Logo" />
     </div>
     <Navbar />
   </div>
