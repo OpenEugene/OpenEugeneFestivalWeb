@@ -4,7 +4,7 @@ const SponsorCard = props => {
   // console.log(props.LogoURL)
   let logoSrc
   if (props.LogoURL !== '' ) {
-    logoSrc = require('../images/' + props.LogoURL)
+    logoSrc = require('../images/SponsorLogos' + props.LogoURL)
   }
   // console.log(logoSrc)
   return (

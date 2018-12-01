@@ -3,54 +3,70 @@
     "Level": "Presenting",
     "Name": "Concentric Sky",
     "Link": "https://www.concentricsky.com/",
-    "LogoURL": ""
+    "LogoURL": "logo_csky_black.png",
+    "misc": ""
   },
   {
     "Level": "Supporting",
-    "Name": "moovel North America",
+    "Name": "moovel North America LCC",
     "Link": "https://www.moovel-group.com",
-    "LogoURL": ""
+    "LogoURL": "logo_moovel_black.png",
+    "misc": ""
   },
   {
     "Level": "Community",
     "Name": "SiliconShire",
     "Link": "https://siliconshire.org/",
-    "LogoURL": ""
+    "LogoURL": "logo_siliconshire_black.svg",
+    "misc": ""
   },
   {
     "Level": "Community",
     "Name": "The Barn Light",
     "Link": "https://thebarnlightbar.com",
-    "LogoURL": ""
+    "LogoURL": "",
+    "misc": ""
   },
   {
     "Level": "Supporting",
     "Name": "RAIN",
     "Link": "www.raineugene.org",
-    "LogoURL": ""
+    "LogoURL": "logo_rain_black.png",
+    "misc": ""
   },
   {
     "Level": "Community",
     "Name": "XS Media",
     "Link": "https://xsmedia.com",
-    "LogoURL": ""
+    "LogoURL": "logo_xsmedia_black.eps",
+    "misc": ""
   },
   {
     "Level": "Presenting",
     "Name": "Badgr",
     "Link": "https://badgr.org",
-    "LogoURL": ""
+    "LogoURL": "",
+    "misc": "Not using Badgr logo for T-shirts. Cale will be presenting Badgr at the event."
   },
   {
     "Level": "Community",
     "Name": "thanks.org",
     "Link": "https://thanks.org",
-    "LogoURL": ""
+    "LogoURL": "",
+    "misc": ""
   },
   {
     "Level": "Community",
     "Name": "EugeneTech",
     "Link": "https://EugeneTech.org",
-    "LogoURL": ""
+    "LogoURL": "logo_eugtech_white.png",
+    "misc": ""
+  },
+  {
+    "Level": "Title",
+    "Name": "Emerald Broadband",
+    "Link": "",
+    "LogoURL": "logo_emerald.png",
+    "misc": ""
   }
 ]
