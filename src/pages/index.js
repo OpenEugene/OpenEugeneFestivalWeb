@@ -7,7 +7,7 @@ import allTheThingsLogo from '../images/open-all-the-things.jpg'
 const IndexPage = () => (
   <Layout>
     <h2 style={{ textAlign: 'center' }}>What is Open Eugene Festival?</h2>
-    <p>
+    <p style={{ textAlign: 'center' }}>
       Welcome to the Open Eugene Festival web page!{' '}
       <span role="img" aria-label="party emojis">
         🎉
@@ -32,6 +32,23 @@ const IndexPage = () => (
       gathering of open enthusiasts in the Eugene Oregon region. Our theme is
       “Open all the Things!”
     </p>
+    <h3> Signup as a Contributor, Volunteer, or Buy a Ticket on 
+      <a
+        href="https://www.eventbrite.com/e/open-eugene-festival-tickets-52110392587"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+       Eventbrite
+      </a>
+      or
+      <a
+        href="https://www.facebook.com/events/196679251226823/"
+        target="_blank"
+        rel="noopener noreferrer"
+      > 
+      Facebook
+      </a>
+    </h3>
     <img
       style={{ float: 'right', width: '350px' }}
       className="allTheThingsLogo"
@@ -128,15 +145,7 @@ const IndexPage = () => (
     </h4>
     <hr />
 
-    <h3>
-      <a
-        href="https://www.eventbrite.com/e/open-eugene-festival-tickets-52110392587"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Signup as a Contributor, Volunteer, or Buy a Ticket on eventbrite
-      </a>
-    </h3>
+   
     <h4>
       <a href="https://github.com/EugTech/Open-Eugene/blob/master/CODE_OF_CONDUCT.md">
         View Code of Conduct
