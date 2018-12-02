@@ -53,7 +53,7 @@ class ProjectsPage extends Component {
           have an idea for a project and would like to start it out by working
           in the open. We can get you started. Or maybe you have some data stuck
           in a flat file somewhere you’d like to see made available to the world
-          or have a PI built. That works too! We’d love to build community
+          or have a API built. That works too! We’d love to build community
           connections between projects and contributors.
         </p>
 
