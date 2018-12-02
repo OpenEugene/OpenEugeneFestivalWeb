@@ -32,7 +32,7 @@ const IndexPage = () => (
       gathering of open enthusiasts in the Eugene Oregon region. Our theme is
       “Open all the Things!”
     </p>
-    <h3> Signup as a Contributor, Volunteer, or Buy a Ticket on 
+    <h3> Signup as a Contributor, Volunteer, or Buy a Ticket on {' '}
       <a
         href="https://www.eventbrite.com/e/open-eugene-festival-tickets-52110392587"
         target="_blank"
@@ -40,7 +40,7 @@ const IndexPage = () => (
       >
        Eventbrite
       </a>
-      or
+      {' '}or{' '}
       <a
         href="https://www.facebook.com/events/196679251226823/"
         target="_blank"
