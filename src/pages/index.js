@@ -48,7 +48,7 @@ const IndexPage = () => (
       > 
       Facebook
       </a>
-    </h4>
+    </h3>
     <img
       style={{ float: 'right', width: '350px' }}
       className="allTheThingsLogo"
