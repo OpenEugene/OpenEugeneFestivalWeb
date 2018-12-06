@@ -38,11 +38,11 @@ p, li, blockquote {
   font-size: 2rem;
 }
 
-.Supporting+ img {
+.Supporting {
   width: 200px;
 }
 
-.Community+ img {
+.Community {
   width: 175px; 
 }
 
