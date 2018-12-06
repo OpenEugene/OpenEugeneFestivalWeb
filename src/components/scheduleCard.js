@@ -5,16 +5,6 @@ import schedule from '../json/schedule'
 
 const ScheduleCard = props => {
   const headers = Object.getOwnPropertyNames(schedule[0])
-  //console.log(headers)
-  //console.log(schedule.map(stuff => stuff.Day))
-  // map all items under each header
-  // const data = schedule.map((item, i) => (
-  //   <div key={i} className="s-item">
-  //     <p>{item.Day}</p>
-  //     <p>{item.Time}</p>
-  //     <p>{item.What}</p>
-  //   </div>
-  // ))
 
   return (
     <div className="schedule">
