@@ -16,9 +16,9 @@ const ScheduleCard = props => {
         ))}
       </div>
       <hr />
-      {schedule.map(item => {
+      {schedule.map((item,i) => {
         return (
-          <div style={{ display: 'grid', gridTemplateColumns: `1fr 1fr 3fr` }}>
+          <div key={i} style={{ display: 'grid', gridTemplateColumns: `1fr 1fr 3fr` }}>
             <p style={{ fontWeight: 'bold' }}>{item.Day}</p>
             <p>{item.Time}</p>
             <p>{item.What}</p>
