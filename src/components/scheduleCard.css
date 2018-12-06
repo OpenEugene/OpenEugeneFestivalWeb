@@ -1,0 +1,18 @@
+.schedule {
+  display: grid;
+  grid-template-areas: "header header header"
+                        "data data data"
+}
+
+/* .s-item, .s-head {
+  display: flex;
+} */
+
+.s-head {
+  grid-area: header;
+
+}
+
+.s-item {
+  grid-area: data;
+}

@@ -19,6 +19,7 @@ const Navbar = ({ children }) => (
       <ListLink to="/">Home</ListLink>
       <ListLink to="/projects">Projects</ListLink>
       <ListLink to="/sessions">Sessions</ListLink>
+      <ListLink to="/schedule">Schedule</ListLink>
       <ListLink to="/sponsors">Sponsors</ListLink>
       <ListLink to="/about">About</ListLink>
     </ul>
