@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import press from '../static/OEF-press.pdf'
 
 const ListLink = props => (
   <li style={{ display: `inline-block`, marginRight: '1rem' }}>
@@ -22,7 +21,12 @@ const Navbar = ({ children }) => (
       <ListLink to="/sessions">Sessions</ListLink>
       <ListLink to="/sponsors">Sponsors</ListLink>
       <ListLink to="/about">About</ListLink>
-      <ListLink to={press}>Press Release</ListLink>
+      <a
+        style={{ color: '#2b2b2b', textDecoration: 'none' }}
+        href={require('../static/OEF-press.pdf')}
+      >
+        Press Release
+      </a>
     </ul>
   </div>
 )
