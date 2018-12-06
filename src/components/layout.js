@@ -6,6 +6,7 @@ import { StaticQuery, graphql } from 'gatsby'
 import Header from './header'
 import Footer from './footer'
 import './layout.css'
+import siteImage from '../images/OpenOregonWeb.png';
 
 const Layout = ({ children }) => (
   <StaticQuery
@@ -27,6 +28,7 @@ const Layout = ({ children }) => (
             { name: 'keywords', content: 'open source, programming, project, app, software, all the things, mozilla, mozfest, web, development' },
           ]}
         >
+        <meta property="og:image" content={siteImage} />
           <html lang="en" />
         </Helmet>
         <Header siteTitle={data.site.siteMetadata.title} />
