@@ -1,19 +1,5 @@
 [
   {
-    "Timestamp": "2018-11-06T17:51:13.600Z",
-    "Project Name": "Killer.App",
-    "Type of Project": "Open Source Software : Release your code using an OSS License, Open Data : You have APIs or raw data you would like accessible to more people",
-    "What are your needs?": "Looking for more collaborators",
-    "What stage is your project in today?": "It's a working project, but not open yet",
-    "Link to GitHub or other Repo, Google docs, etc.": "",
-    "Are you willing to demo it to a group?": "No",
-    "How do you plan on attending the conference?": "Both Days",
-    "Shorter Description (the tweet version 140 chars)": "An open source, mobile enabled and fully adaptable game that uses Alternate Reality Gaming methods linked with elements of True Crime fandom and an escape room ethos. ",
-    "Longer Description": "and fully adaptable game that uses Alternate Reality Gaming methods linked with elements of True Crime fandom and an escape room ethos. ",
-    "Your Name": "Joseph M",
-    "Your twitter account or GitHub handle": "@eugeniusestech"
-  },
-  {
     "Timestamp": "2018-11-14T09:38:53.084Z",
     "Project Name": "Glass_Beatstation",
     "Type of Project": "Open Source Software : Release your code using an OSS License",
@@ -25,7 +11,8 @@
     "Shorter Description (the tweet version 140 chars)": "Loopstation, Sequencer, and instrument: A linux-based musical interface that uses python to control sooperlooper, jack transport, Hydrogen, and any other midi or osc instrumentation",
     "Longer Description": "This is an evolving project oriented towards enabling anyone to make music intuitively on open source software: utilizing the modular nature of open source resources to be operated and formatted as the user desires. At this stage it is a beefed up loopstation, sequencer, and midi controller which  uses a Novation Launchpad as the physical interface, python and open sound control to facilitate communication,  hydrogen as drums, and uses Jack to synchronize and make audio/midi connections. It is intended to be used with a mic or other instruments if so desired",
     "Your Name": "Athan Spathas",
-    "Your twitter account or GitHub handle": "alignwaivers"
+    "Your twitter account or GitHub handle": "alignwaivers",
+    "Letter Sent": "Yes 12/4"
   },
   {
     "Timestamp": "2018-11-20T17:24:47.138Z",
@@ -39,6 +26,52 @@
     "Shorter Description (the tweet version 140 chars)": "SOAR is a scalable mechanism for mapping human resources and needs within a metropolitan area and convening alliances comparable to the murmurations of hundreds of starlings that instantly change direction in response to very small stimuli.",
     "Longer Description": "Vision: an online resource that is a self-maintaining, self-organizing and cooperative learning network of issue-focused groups, such that any social benefit organization could contact like-minded groups or individuals for an exchange of ideas, plans, resources, volunteers’ time & energy, meeting times and places, best practices, advocacy efforts, awareness of parallel projects, current project status and unmet needs.",
     "Your Name": "EMERALD COMPASSIONATE ACTION NETWORK",
-    "Your twitter account or GitHub handle": "Slack: david.hazen @ Hack4Cause"
+    "Your twitter account or GitHub handle": "Slack: david.hazen @ Hack4Cause",
+    "Letter Sent": "Yes 12/5 "
+  },
+  {
+    "Timestamp": "2018-12-04T05:17:01.621Z",
+    "Project Name": "Smartdown",
+    "Type of Project": "Open Source Software : Release your code using an OSS License, Open Data : You have APIs or raw data you would like accessible to more people",
+    "What are your needs?": "Looking for more collaborators, Learn how to open it up - tips., tools, and templates",
+    "What stage is your project in today?": "It's a working project, but not open yet",
+    "Link to GitHub or other Repo, Google docs, etc.": "https://smartdown.io",
+    "Are you willing to demo it to a group?": "Yes",
+    "How do you plan on attending the conference?": "",
+    "Shorter Description (the tweet version 140 chars)": "Smartdown for Explorable Explanations",
+    "Longer Description": "Smartdown is for 'splainin', whether that be via a blog post, an article, or an app. Smartdown extends the widely used Markdown syntax with reactive Cells and Playables, which enable authors to combine prose, images, technical content, and interactivity into an Explorable Explanation. The Smartdown Javascript library is designed to be easily embeddable into a variety of common web platforms. Smartdown acts as a scaffolding to encourage non-technical authors to share their expertise on the web without the use of excessive syntax.",
+    "Your Name": "Dan Keith",
+    "Your twitter account or GitHub handle": "gh: DoctorBud, twt: TheDoctorBud",
+    "Letter Sent": "Yes 12/5 "
+  },
+  {
+    "Timestamp": "2018-12-04T21:40:50.160Z",
+    "Project Name": "Open E-Board",
+    "Type of Project": "Open Hardware : Share your plans and instructions, Open Data : You have APIs or raw data you would like accessible to more people",
+    "What are your needs?": "Looking for more collaborators, Help selecting the appropriate license(es)",
+    "What stage is your project in today?": "It's a working project, but not open yet",
+    "Link to GitHub or other Repo, Google docs, etc.": "",
+    "Are you willing to demo it to a group?": "Yes",
+    "How do you plan on attending the conference?": "Friday",
+    "Shorter Description (the tweet version 140 chars)": "3d printable E-Skateboard enclosure",
+    "Longer Description": "3d printable E-Skateboard enclosure: A Box for containing the batteries and electronics for an electric skateboard with modular battery cell design for easy swapping of dead 18650 cells",
+    "Your Name": "Jeronemo",
+    "Your twitter account or GitHub handle": "@c4p7_n3m0",
+    "Letter Sent": "Yes 12/5 "
+  },
+  {
+    "Timestamp": "2018-12-04T22:04:46.421Z",
+    "Project Name": "King Pong",
+    "Type of Project": "Open Source Software : Release your code using an OSS License, Open Hardware : Share your plans and instructions, Open Data : You have APIs or raw data you would like accessible to more people, Non-Tech : An Event or Class or other non software/hardware/data thing you'd like to share with the world",
+    "What are your needs?": "Looking for more collaborators",
+    "What stage is your project in today?": "It's a working project, but not open yet",
+    "Link to GitHub or other Repo, Google docs, etc.": "https://github.com/pramslam/OpenKingPong",
+    "Are you willing to demo it to a group?": "Yes",
+    "How do you plan on attending the conference?": "Both Days",
+    "Shorter Description (the tweet version 140 chars)": "Let's convert King Pong the event to a pop-up event that anyone can make anywhere around the world!",
+    "Longer Description": "Let's convert King Pong the event to a pop-up event that anyone can make anywhere around the world!",
+    "Your Name": "David Lo",
+    "Your twitter account or GitHub handle": "pramslam",
+    "Letter Sent": "Yes 12/5 "
   }
 ]

@@ -4,76 +4,83 @@
     "Name": "Concentric Sky",
     "Link": "https://www.concentricsky.com/",
     "LogoURL": "logo_csky_black.png",
-    "misc": ""
+    "logo for print": "logo_csky_black.png"
   },
   {
     "Level": "Supporting",
     "Name": "moovel North America LCC",
     "Link": "https://www.moovel-group.com",
     "LogoURL": "logo_moovel_black.png",
-    "misc": ""
+    "logo for print": "logo_moovel_black.png"
   },
   {
     "Level": "Community",
     "Name": "SiliconShire",
     "Link": "https://siliconshire.org/",
     "LogoURL": "logo_siliconshire_black.svg",
-    "misc": ""
+    "logo for print": "logo_siliconshire_black.svg"
   },
   {
     "Level": "Community",
     "Name": "The Barn Light",
     "Link": "https://thebarnlightbar.com",
     "LogoURL": "logo_barnlight.jpg",
-    "misc": ""
+    "logo for print": ""
   },
   {
     "Level": "Supporting",
     "Name": "RAIN",
     "Link": "www.raineugene.org",
     "LogoURL": "logo_rain_black.png",
-    "misc": ""
+    "logo for print": "logo_rain_black.png"
   },
   {
     "Level": "Community",
     "Name": "XS Media",
     "Link": "https://xsmedia.com",
     "LogoURL": "logo_xsmedia_black.png",
-    "misc": ""
+    "logo for print": "logo_xsmedia_black.png"
   },
   {
     "Level": "Presenting",
     "Name": "Badgr",
     "Link": "https://badgr.org",
-    "LogoURL": "logo_badgr.png",
-    "misc": ""
+    "LogoURL": "logo_badgr.svg",
+    "logo for print": ""
   },
   {
     "Level": "Community",
     "Name": "thanks.org",
     "Link": "https://thanks.org",
     "LogoURL": "",
-    "misc": ""
+    "logo for print": ""
   },
   {
     "Level": "Community",
     "Name": "EugeneTech",
     "Link": "https://EugeneTech.org",
     "LogoURL": "logo_et.png",
-    "misc": ""
+    "logo for print": ""
   },
   {
     "Level": "Title",
     "Name": "Emerald Broadband",
     "Link": "https://www.emeraldbroadband.com/",
     "LogoURL": "logo_emerald.png",
-    "misc": ""
+    "logo for print": ""
   },
   {
     "Level": "Community",
     "Name": "RWIT",
     "Link": "https://redefiningwomenintech.com/",
     "LogoURL": "logo_rwit.png",
-    "misc": ""
+    "logo for print": ""
+  },
+  {
+    "Level": "Supporting",
+    "Name": "Dark Matter",
+    "Link": "http://darkmatter.consulting",
+    "LogoURL": "",
+    "logo for print": ""
   }
 ]
