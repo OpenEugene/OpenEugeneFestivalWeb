@@ -45,7 +45,7 @@
     "Level": "Presenting",
     "Name": "Badgr",
     "Link": "https://badgr.org",
-    "LogoURL": "logo_badgr.svg",
+    "LogoURL": "logo_badgr.png",
     "logo for print": ""
   },
   {
@@ -80,7 +80,7 @@
     "Level": "Supporting",
     "Name": "Dark Matter",
     "Link": "http://darkmatter.consulting",
-    "LogoURL": "",
+    "LogoURL": "logo_dm.png",
     "logo for print": ""
   }
 ]
