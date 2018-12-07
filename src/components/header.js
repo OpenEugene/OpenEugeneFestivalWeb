@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import Navbar from './navbar';
-import backgroundBox from '../images/BackgroundBox.png'
+import backgroundBox from '../images/gradient_pinkcubes.png'
 import logo from '../images/SponsorLogos/logo_emeralds.png'
 const Header = ({ siteTitle }) => (
   <div
