@@ -22,12 +22,12 @@ class Sponsors extends Component {
         {/* {sponsorCards.filter(card => card.props.Level === 'Title')} */}
         <hr />
         <h3 style={{ textAlign: 'center' }}>Presenting Sponsors</h3>
-        <div className="sponsorContainer">
+        <div className="sponsorContainer" >
           {sponsorCards.filter(card => card.props.Level === 'Presenting')}
         </div>
         <hr />
         <h3 style={{ textAlign: 'center' }}>Supporting Sponsors</h3>
-        <div className="sponsorContainer">
+        <div className="sponsorContainer" style={{alignItems: "center"}}>
           {sponsorCards.filter(card => card.props.Level === 'Supporting')}
         </div>
         <hr />
