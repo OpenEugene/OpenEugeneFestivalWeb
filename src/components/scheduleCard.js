@@ -1,7 +1,7 @@
 import React from 'react'
 import schedule from '../json/schedule'
 
-//import './scheduleCard.css';
+import './scheduleCard.css';
 
 const ScheduleCard = props => {
   const headers = Object.getOwnPropertyNames(schedule[0])
@@ -18,11 +18,10 @@ const ScheduleCard = props => {
       <hr />
       {schedule.map((item,i) => {
         return (
-          <div key={i} style={{ display: 'grid', gridTemplateColumns: `1fr 1fr 3fr` }}>
+          <div key={i} className="scheduleData" style={{ display: 'grid', gridTemplateColumns: `1fr 1fr 4fr` }}>
             <p style={{ fontWeight: 'bold' }}>{item.Day}</p>
             <p>{item.Time}</p>
             <p>{item.What}</p>
-            <hr />
           </div>
         )
       })}
