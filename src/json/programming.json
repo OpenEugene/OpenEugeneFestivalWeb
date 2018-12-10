@@ -11,6 +11,8 @@
     "Second speakers public profile (linked-in, Medium, or...)": "",
     "Type of program": "",
     "Venue Preference": "",
+    "Photo": "nate.jpg",
+    "Photo2": "",
     "Send Letter": "Yes 12/5"
   },
   {
@@ -25,20 +27,24 @@
     "Second speakers public profile (linked-in, Medium, or...)": "",
     "Type of program": "Talk",
     "Venue Preference": "Large Open Area:  More the merrier and maybe we'll even break into groups",
+    "Photo": "nikole.jpg",
+    "Photo2": "",
     "Send Letter": "Yes 12/5"
   },
   {
     "Timestamp": "2018-12-06T22:11:16.478Z",
-    "Your Name": "Anthony Casson",
+    "Your Name": "Heather McFarland and Anthony Casson",
     "Program Name": "Designing Open Source Programs with Empathy Mapping",
     "Shorter Description (the tweet version 140 chars)": "Learn how to design an Open Source company program by using empathy mapping to move past organizational hurdles.",
     "Longer Description": "Launching an Open Source program is no easy task at an organization with little or no open culture established. Much of the difficulty comes from organizational leaders pushing back. Understanding what they care about and what their priorities are gives any new idea a better chance to thrive. This workshop will help you identify key personnel and their motivations/goals to better prepare an Open Source program pitch and approach through Empathy Mapping.",
     "Link to slide deck or repo": "",
     "Your Twitter or GitHub handle": "@ascasson",
     "Link to speakers public profile (linked-in, Medium, or...)": "https://www.linkedin.com/in/ascasson/",
-    "Second speakers public profile (linked-in, Medium, or...)": "",
+    "Second speakers public profile (linked-in, Medium, or...)": "https://www.linkedin.com/in/heathermcfarland-154a19b/",
     "Type of program": "Workshop",
     "Venue Preference": "Large Open Area:  More the merrier and maybe we'll even break into groups",
+    "Photo": "heather.jpg",
+    "Photo2": "anthony.jpg",
     "Send Letter": ""
   },
   {
@@ -53,6 +59,8 @@
     "Second speakers public profile (linked-in, Medium, or...)": "https://www.facebook.com/isis.maria2",
     "Type of program": "Demo",
     "Venue Preference": "Large Open Area:  More the merrier and maybe we'll even break into groups",
+    "Photo": "emily.jpg",
+    "Photo2": "",
     "Send Letter": ""
   }
 ]
