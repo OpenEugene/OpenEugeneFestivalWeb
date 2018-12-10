@@ -12,7 +12,8 @@
     "Type of program": "",
     "Venue Preference": "",
     "Photo": "nate.jpg",
-    "Photo2": ""
+    "Photo2": "",
+    "Send Letter": "Yes 12/5"
   },
   {
     "Timestamp": "2018-11-21T20:44:00.849Z",
@@ -27,6 +28,39 @@
     "Type of program": "Talk",
     "Venue Preference": "Large Open Area:  More the merrier and maybe we'll even break into groups",
     "Photo": "nikole.jpg",
-    "Photo2": ""
+    "Photo2": "",
+    "Send Letter": "Yes 12/5"
+  },
+  {
+    "Timestamp": "2018-12-06T22:11:16.478Z",
+    "Your Name": "Heather McFarland and Anthony Casson",
+    "Program Name": "Designing Open Source Programs with Empathy Mapping",
+    "Shorter Description (the tweet version 140 chars)": "Learn how to design an Open Source company program by using empathy mapping to move past organizational hurdles.",
+    "Longer Description": "Launching an Open Source program is no easy task at an organization with little or no open culture established. Much of the difficulty comes from organizational leaders pushing back. Understanding what they care about and what their priorities are gives any new idea a better chance to thrive. This workshop will help you identify key personnel and their motivations/goals to better prepare an Open Source program pitch and approach through Empathy Mapping.",
+    "Link to slide deck or repo": "",
+    "Your Twitter or GitHub handle": "@ascasson",
+    "Link to speakers public profile (linked-in, Medium, or...)": "https://www.linkedin.com/in/ascasson/",
+    "Second speakers public profile (linked-in, Medium, or...)": "https://www.linkedin.com/in/heathermcfarland-154a19b/",
+    "Type of program": "Workshop",
+    "Venue Preference": "Large Open Area:  More the merrier and maybe we'll even break into groups",
+    "Photo": "heather.jpg",
+    "Photo2": "anthony.jpg",
+    "Send Letter": ""
+  },
+  {
+    "Timestamp": "2018-12-07T22:01:36.881Z",
+    "Your Name": "Emily Farthing",
+    "Program Name": "A View From the Top: A brief perspective into life, culture and innovation in a favela in Rio de Janeiro",
+    "Shorter Description (the tweet version 140 chars)": "Be transported to the top of a Brazilian favela in Rio de Janeiro to learn how local entrepreneurs are mixing with international digital nomads to accelerate local favela-based businesses. Adam Newman the CEO of Favela Inc. and Nova Era Co-Living will introduce business owners from Rio's favelas and learn how technology and social impact has been expanding the possibilities in Rio's forgotten neighborhoods.  Presentation will conclude with dynamic samba school performance overlooking Rio de Janeiro from Vidigal favela. ",
+    "Longer Description": "Favela Inc. incubates and accelerates favela-based ecosystems by empowering and educating local entrepreneurs, and organizations into the change-makers of tomorrow. We seek to fortify favela communities and their citizens, by providing them access to the skills, resources, financing, and partners they need, promoting socio-economic development, autonomy and sustainability while removing the inherent limitations caused by widespread economic exclusion, poverty, and violence. Sustainable business creation can save lives. We are doing it, you can be a part. ",
+    "Link to slide deck or repo": "https://docs.google.com/presentation/d/1egcCtqTDYPiX228NdnPI1SWbhHRFrVcHzFNzBMVHDKI/edit?usp=sharing",
+    "Your Twitter or GitHub handle": "",
+    "Link to speakers public profile (linked-in, Medium, or...)": "https://www.linkedin.com/in/thenetworkingnewman/",
+    "Second speakers public profile (linked-in, Medium, or...)": "https://www.facebook.com/isis.maria2",
+    "Type of program": "Demo",
+    "Venue Preference": "Large Open Area:  More the merrier and maybe we'll even break into groups",
+    "Photo": "emily.jpg",
+    "Photo2": "",
+    "Send Letter": ""
   }
 ]
