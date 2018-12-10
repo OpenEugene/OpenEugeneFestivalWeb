@@ -10,7 +10,9 @@
     "Link to speakers public profile (linked-in, Medium, or...)": "",
     "Second speakers public profile (linked-in, Medium, or...)": "",
     "Type of program": "",
-    "Venue Preference": ""
+    "Venue Preference": "",
+    "Photo": "nate.jpg",
+    "Photo2": ""
   },
   {
     "Timestamp": "2018-11-21T20:44:00.849Z",
@@ -23,6 +25,8 @@
     "Link to speakers public profile (linked-in, Medium, or...)": "https://www.linkedin.com/in/nhgnikole/",
     "Second speakers public profile (linked-in, Medium, or...)": "",
     "Type of program": "Talk",
-    "Venue Preference": "Large Open Area:  More the merrier and maybe we'll even break into groups"
+    "Venue Preference": "Large Open Area:  More the merrier and maybe we'll even break into groups",
+    "Photo": "nikole.jpg",
+    "Photo2": ""
   }
 ]
