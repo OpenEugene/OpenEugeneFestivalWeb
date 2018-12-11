@@ -12,6 +12,7 @@
     "Longer Description": "This is an evolving project oriented towards enabling anyone to make music intuitively on open source software: utilizing the modular nature of open source resources to be operated and formatted as the user desires. At this stage it is a beefed up loopstation, sequencer, and midi controller which  uses a Novation Launchpad as the physical interface, python and open sound control to facilitate communication,  hydrogen as drums, and uses Jack to synchronize and make audio/midi connections. It is intended to be used with a mic or other instruments if so desired",
     "Your Name": "Athan Spathas",
     "Your twitter account or GitHub handle": "alignwaivers",
+    "Submissions are CLOSED for 2018 !": "",
     "Letter Sent": "Yes 12/4"
   },
   {
@@ -27,21 +28,23 @@
     "Longer Description": "Vision: an online resource that is a self-maintaining, self-organizing and cooperative learning network of issue-focused groups, such that any social benefit organization could contact like-minded groups or individuals for an exchange of ideas, plans, resources, volunteers’ time & energy, meeting times and places, best practices, advocacy efforts, awareness of parallel projects, current project status and unmet needs.",
     "Your Name": "EMERALD COMPASSIONATE ACTION NETWORK",
     "Your twitter account or GitHub handle": "Slack: david.hazen @ Hack4Cause",
+    "Submissions are CLOSED for 2018 !": "",
     "Letter Sent": "Yes 12/5 "
   },
   {
     "Timestamp": "2018-12-04T05:17:01.621Z",
     "Project Name": "Smartdown",
     "Type of Project": "Open Source Software : Release your code using an OSS License, Open Data : You have APIs or raw data you would like accessible to more people",
-    "What are your needs?": "Looking for folks to try it out, give us feedback, and help out with the Smartdown constellation of software.",
-    "What stage is your project in today?": "It's a working and available project, and will be open very soon, perhaps at the festival.",
+    "What are your needs?": "Looking for more collaborators, Learn how to open it up - tips., tools, and templates",
+    "What stage is your project in today?": "It's a working project, but not open yet",
     "Link to GitHub or other Repo, Google docs, etc.": "https://smartdown.io",
     "Are you willing to demo it to a group?": "Yes",
-    "How do you plan on attending the conference?": "Me and my collaborators will be there in person",
+    "How do you plan on attending the conference?": "",
     "Shorter Description (the tweet version 140 chars)": "Smartdown for Explorable Explanations",
     "Longer Description": "Smartdown is for 'splainin', whether that be via a blog post, an article, or an app. Smartdown extends the widely used Markdown syntax with reactive Cells and Playables, which enable authors to combine prose, images, technical content, and interactivity into an Explorable Explanation. The Smartdown Javascript library is designed to be easily embeddable into a variety of common web platforms. Smartdown acts as a scaffolding to encourage non-technical authors to share their expertise on the web without the use of excessive syntax.",
     "Your Name": "Dan Keith",
-    "Your twitter account or GitHub handle": "gh: DoctorBud, twt: @TheDoctorBud",
+    "Your twitter account or GitHub handle": "gh: DoctorBud, twt: TheDoctorBud",
+    "Submissions are CLOSED for 2018 !": "",
     "Letter Sent": "Yes 12/5 "
   },
   {
@@ -57,6 +60,7 @@
     "Longer Description": "3d printable E-Skateboard enclosure: A Box for containing the batteries and electronics for an electric skateboard with modular battery cell design for easy swapping of dead 18650 cells",
     "Your Name": "Jeronemo",
     "Your twitter account or GitHub handle": "@c4p7_n3m0",
+    "Submissions are CLOSED for 2018 !": "",
     "Letter Sent": "Yes 12/5 "
   },
   {
@@ -72,6 +76,7 @@
     "Longer Description": "Let's convert King Pong the event to a pop-up event that anyone can make anywhere around the world!",
     "Your Name": "David Lo",
     "Your twitter account or GitHub handle": "pramslam",
+    "Submissions are CLOSED for 2018 !": "",
     "Letter Sent": "Yes 12/5 "
   },
   {
@@ -87,6 +92,7 @@
     "Longer Description": "*Visitor steps onto jump plate\n*Touches screen to start recording\n*Two cams record a brief loop (5/10 seconds) tracking the jump motion and the height of the jump\n*Visitor can then replay/slow down the jump in replay to see how it compares with an inertial tracker\n*Recording erased when reset to record next attempt.",
     "Your Name": "Jeff Franzen",
     "Your twitter account or GitHub handle": "use email",
+    "Submissions are CLOSED for 2018 !": "",
     "Letter Sent": ""
   },
   {
@@ -102,6 +108,7 @@
     "Longer Description": "* Visitor selects a language and then a phrase.\n*Visitor then hears phrase and sees corresponding speech pattern\n*Visitor then tries to replicate phrase in a microphone and sees their corresponding speech pattern.\n*Visitor compares speech pattern and audio files\n*Visitor can then either reset and try again or select another audio file",
     "Your Name": "Jeff",
     "Your twitter account or GitHub handle": "JeffESC",
+    "Submissions are CLOSED for 2018 !": "",
     "Letter Sent": ""
   },
   {
@@ -117,6 +124,7 @@
     "Longer Description": "*Up to three visitors can compete at this station\n*Visitors can select from three different stimuli- Sound, Flashing Light or Vibration\n*Visitors rest their hands on their respective START (vibration) plate and start the stimuli timer. When the stimuli is triggered three different counts start in hundredths of a second tracking each participant\n*Each clock stops when the respective visitor \"reacts\" and hits their respective STOP button",
     "Your Name": "Jeff Franzen",
     "Your twitter account or GitHub handle": "JeffESC",
+    "Submissions are CLOSED for 2018 !": "",
     "Letter Sent": ""
   },
   {
@@ -132,6 +140,7 @@
     "Longer Description": "EugCast is a podcast that we have been working on for about 5 months. We have about 8 interviews in the can and are now in the editing phase and would like to do some live edits during the event.",
     "Your Name": "Kimberlee Noel Trim",
     "Your twitter account or GitHub handle": "",
+    "Submissions are CLOSED for 2018 !": "",
     "Letter Sent": ""
   }
 ]
