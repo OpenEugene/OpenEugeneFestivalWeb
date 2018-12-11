@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2018-11-23T08:00:00.000Z",
+    "type": "article",
+    "name": "MozFest leads to Open Eugene Festival",
+    "ImageURL": "https://cdn-images-1.medium.com/max/2000/1*AjYufUtbZJFvP7hs0EpZNg.png",
+    "link": "https://medium.com/@nohorse/mozfest-leads-to-open-eugene-festival-d8b43396023e"
+  },
+  {
+    "date": "2018-11-27T08:00:00.000Z",
+    "type": "article",
+    "name": "Mozilla Interview: Open Eugene Festival | Open Leaders 6",
+    "ImageURL": "https://cdn-images-1.medium.com/max/1600/0*ZFSkc7bHFmjS32Sw",
+    "link": "https://medium.com/mozilla-festival/open-eugene-festival-open-leaders-6-8424251dde97"
+  },
+  {
+    "date": "2018-11-28T08:00:00.000Z",
+    "type": "video",
+    "name": "OpenEugene Fest Intro",
+    "ImageURL": "",
+    "link": "https://youtu.be/PZojOfxjPPg"
+  },
+  {
+    "date": "2018-12-10T08:00:00.000Z",
+    "type": "audio",
+    "name": "La E-Kiss Episode where Open Fest is mentioned at 27:37",
+    "ImageURL": "https://mixlr-assets.s3.amazonaws.com/users/b759c6d5c2ebcfb758b23921eb1bc3fd/thumb.jpeg?1456687495",
+    "link": "http://mixlr.com/la-e-kiss/showreel/la-e-kiss-on-mixlr-801/?fbclid=IwAR2uhb7wUWyHvtIwpe08QlB_6GC4FAc9dJefOEtyv49or50b7AsL6tcGYiM"
+  },
+  {
+    "date": "2018-12-10T08:00:00.000Z",
+    "type": "video",
+    "name": "Open Eugene Festival Intro in Spanish",
+    "ImageURL": "",
+    "link": "https://youtu.be/xsluofCHmTQ"
+  }
+]
