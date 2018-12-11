@@ -17,12 +17,15 @@ const IndexPage = () => (
     {/* textAlign-ed div added to center youTube iframe
         Media query in Layout.css changes width to 100% at 560px so it will be responsive on mobile */}
     <div style={{ textAlign: 'center' }}>
-    <iframe width="560" height="315" 
-      src="https://www.youtube.com/embed/xsluofCHmTQ" 
-      frameborder="0" 
-      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen>
-      </iframe>
+    <iframe
+        title="Festival Abierto de Eugene"
+        width="560"
+        height="315"
+        src="https://www.youtube-nocookie.com/embed/xsluofCHmTQ"
+        frameBorder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      />
     </div>
     <p>
       The Open Eugene Festival is the first (that we know of) intentional
