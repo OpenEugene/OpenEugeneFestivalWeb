@@ -23,12 +23,6 @@ const Navbar = ({ children }) => (
       <ListLink to="/sponsors">Sponsors</ListLink>
       <ListLink to="/media">Media</ListLink>
       <ListLink to="/about">About</ListLink>
-      <a
-        style={{ color: '#2b2b2b', textDecoration: 'none' }}
-        href={require('../static/OEF-press.pdf')}
-      >
-        Press Release
-      </a>
     </ul>
   </div>
 )
