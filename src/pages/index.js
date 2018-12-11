@@ -128,9 +128,9 @@ const IndexPage = () => (
       <li>Get your hands dirty! Hack with techies, Talk with Talkies?</li>
       <li>Show the world your awesome project!</li>
       <li>
-        Story time with Dr. Bud!{' '}
+        Story time with Doctor Bud!{' '}
         <a
-          href="https://smartdown.site/#gallery/Home.md"
+          href="https://smartdown.io"
           target="_blank"
           rel="noopener noreferrer"
         >
