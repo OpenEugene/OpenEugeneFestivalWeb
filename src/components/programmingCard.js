@@ -16,9 +16,9 @@ const ProgrammingCard = props => {
       <div style={{display: "grid", gridTemplateColumns: "200px auto", gridGap: "10px"}}>
         <div>
           <h4>Presenter: <br />
-          {props['Your Name']}</h4>
-          <img src={speakerPhoto} alt={props['Your Name']} />
-          {speakerPhoto2 && <img src={speakerPhoto2} alt={props['Your Name']} />
+          <a href={props["Link to speakers public profile (linked-in, Medium, or...)"]}>{props['Your Name']}</a></h4>
+          <a href={props["Link to speakers public profile (linked-in, Medium, or...)"]}><img src={speakerPhoto} alt={props['Your Name']}/></a>
+          {speakerPhoto2 && <a href={props["Second speakers public profile (linked-in, Medium, or...)"]}><img src={speakerPhoto2} alt={props['Your Name']} /></a>
 }
         </div>
         <p>Description: {props['Longer Description']}</p>
