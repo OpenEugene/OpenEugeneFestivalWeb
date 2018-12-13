@@ -128,23 +128,6 @@ const IndexPage = () => (
     </div>
     <hr />
 
-    <h3>Why Come to Open Fest?</h3>
-    <ul>
-      <li>To Play KING-PONG!</li>
-      <li>To Find my Open Source brothers and sisters in the region</li>
-      <li>Get your hands dirty! Hack with techies, Talk with Talkies?</li>
-      <li>Show the world your awesome project!</li>
-      <li>
-        Story time with Doctor Bud!{' '}
-        <a
-          href="https://smartdown.io"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          SmartDown Edition
-        </a>
-      </li>
-    </ul>
     <h4>
       <Link to="/projects">
         Check out what projects are coming or even... Submit your own!
