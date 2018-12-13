@@ -28,7 +28,7 @@
     "Type of program": "Demo",
     "Venue Preference": "Large Open Area:  More the merrier and maybe we'll even break into groups",
     "Photo": "emily.jpg",
-    "Photo2": "",
+    "Photo2": "maria.jpg",
     "Send Letter": ""
   },
   {
@@ -39,11 +39,11 @@
     "Longer Description": "Launching an Open Source program is no easy task at an organization with little or no open culture established. Much of the difficulty comes from organizational leaders pushing back. Understanding what they care about and what their priorities are gives any new idea a better chance to thrive. This workshop will help you identify key personnel and their motivations/goals to better prepare an Open Source program pitch and approach through Empathy Mapping.",
     "Link to slide deck or repo": "",
     "Your Twitter or GitHub handle": "@ascasson",
-    "Link to speakers public profile (linked-in, Medium, or...)": "https://www.linkedin.com/in/ascasson/",
-    "Second speakers public profile (linked-in, Medium, or...)": "https://www.linkedin.com/in/heathermcfarland-154a19b/",
+    "Link to speakers public profile (linked-in, Medium, or...)": "https://www.linkedin.com/in/heathermcfarland-154a19b/",
+    "Second speakers public profile (linked-in, Medium, or...)": "https://www.linkedin.com/in/ascasson/",
     "Type of program": "Workshop",
     "Venue Preference": "Large Open Area:  More the merrier and maybe we'll even break into groups",
-    "Photo": "heather.jpg",
+    "Photo": "heather.jpg", 
     "Photo2": "anthony.jpg",
     "Send Letter": ""
   },
@@ -71,7 +71,7 @@
     "Longer Description": "We often forget to give recognition for the time and effort that community members put into our open projects. That's true across open source and open data initiatives as well as local community efforts for learning and community building. Open Badges are a great tools to provide recognition, and Open Pathways give your community members understanding of what activities are valuable and open to their participation as well as the ability to share their accomplishments with potential employers and collaborators. Learn how to use Open Badges to recognize what's important in your open community, and earn a badge for yourself for participating at Open Eugene Festival.",
     "Link to slide deck or repo": "https://github.com/concentricsky/badgr-server",
     "Your Twitter or GitHub handle": "https://twitter.com/ottonomy https://github.com/ottonomy",
-    "Link to speakers public profile (linked-in, Medium, or...)": "",
+    "Link to speakers public profile (linked-in, Medium, or...)": "https://www.linkedin.com/in/nateotto/",
     "Second speakers public profile (linked-in, Medium, or...)": "",
     "Type of program": "",
     "Venue Preference": "",

@@ -39,6 +39,7 @@ const IndexPage = () => (
       gathering of open enthusiasts in the Eugene Oregon region. Our theme is
       “Open all the Things!”
     </p>
+    <h3>We're sold out! Fill out {" "} <a href="https://goo.gl/forms/DDeWAavvSMAtT28u1">this form</a>{" "} to get on the mailing list for the next time.</h3>
     <h3> Signup as a Contributor, Volunteer, or Buy a Ticket on {' '}
       <a
         href="https://www.eventbrite.com/e/open-eugene-festival-tickets-52110392587"
