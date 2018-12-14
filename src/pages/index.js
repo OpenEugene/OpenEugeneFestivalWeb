@@ -17,44 +17,53 @@ const IndexPage = () => (
     {/* textAlign-ed div added to center youTube iframe
         Media query in Layout.css changes width to 100% at 560px so it will be responsive on mobile */}
     <div style={{ textAlign: 'center' }}>
-    <iframe width="560" height="315" 
-      src="https://www.youtube.com/embed/xsluofCHmTQ" 
-      frameborder="0" 
-      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen>
-      </iframe>
-      <p >
-      Is English you first language?{' '}
-      <a
-        href="https://youtu.be/PZojOfxjPPg"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-      Check out the OG version! 
-      </a>
-    </p>
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/xsluofCHmTQ"
+        frameBorder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+        title="Open Eugene Español 'Splainer Vid"
+      />
+      <p>
+        Is English you first language?{' '}
+        <a
+          href="https://youtu.be/PZojOfxjPPg"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Check out the OG version!
+        </a>
+      </p>
     </div>
     <p>
       The Open Eugene Festival is the first (that we know of) intentional
       gathering of open enthusiasts in the Eugene Oregon region. Our theme is
       “Open all the Things!”
     </p>
-    <h3>We're sold out! Fill out {" "} <a href="https://goo.gl/forms/DDeWAavvSMAtT28u1">this form</a>{" "} to get on the mailing list for the next time.</h3>
-    <h3> Signup as a Contributor, Volunteer, or Buy a Ticket on {' '}
+    <h3>
+      We're sold out! Fill out{' '}
+      <a href="https://goo.gl/forms/DDeWAavvSMAtT28u1">this form</a> to get on
+      the mailing list for the next time.
+    </h3>
+    <h3>
+      {' '}
+      Signup as a Contributor, Volunteer, or Buy a Ticket on{' '}
       <a
         href="https://www.eventbrite.com/e/open-eugene-festival-tickets-52110392587"
         target="_blank"
         rel="noopener noreferrer"
       >
-       Eventbrite 
-      </a>
-      {' '}or{' '}
+        Eventbrite
+      </a>{' '}
+      or{' '}
       <a
         href="https://www.facebook.com/events/196679251226823/"
         target="_blank"
         rel="noopener noreferrer"
-      > 
-      Facebook
+      >
+        Facebook
       </a>
     </h3>
     <img
@@ -136,7 +145,6 @@ const IndexPage = () => (
     </h4>
     <hr />
 
-   
     <h4>
       <a href="https://github.com/EugTech/Open-Eugene/blob/master/CODE_OF_CONDUCT.md">
         View Code of Conduct
