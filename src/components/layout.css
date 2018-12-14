@@ -3,15 +3,17 @@ html {
   font-family: 'Zilla Slab', serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  letter-spacing: .05rem;
+  letter-spacing: 0.05rem;
 }
 body {
   margin: 0;
   background: url(../images/Cube.svg);
-  background-Size: cover;
+  background-size: cover;
   background-attachment: fixed;
 }
-p, li, blockquote {
+p,
+li,
+blockquote {
   color: #686767;
 }
 
@@ -21,9 +23,20 @@ p, li, blockquote {
 }
 
 .sponsorContainer {
-  display: flex;
+  display: grid;
   justify-content: space-evenly;
-  flex-Wrap: wrap;
+  align-items: center;
+}
+
+
+.levelPresenting {
+  grid-template-columns: repeat(2, 1fr);
+}
+.levelSupporting {
+  grid-template-columns: repeat(3, 1fr);
+}
+.levelCommunity {
+  grid-template-columns: repeat(4, 1fr);
 }
 
 .Title {
@@ -36,14 +49,6 @@ p, li, blockquote {
 
 .Supporting {
   font-size: 2rem;
-}
-
-.Supporting {
-  width: 200px;
-}
-
-.Community {
-  width: 175px; 
 }
 
 article,

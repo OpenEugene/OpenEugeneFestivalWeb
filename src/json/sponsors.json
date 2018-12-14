@@ -52,7 +52,7 @@
     "Level": "Community",
     "Name": "thanks.org",
     "Link": "https://thanks.org",
-    "LogoURL": "",
+    "LogoURL": "logo_thanks.png",
     "logo for print": ""
   },
   {
@@ -81,6 +81,20 @@
     "Name": "Dark Matter",
     "Link": "http://darkmatter.consulting",
     "LogoURL": "logo_dm.png",
+    "logo for print": ""
+  },
+  {
+    "Level": "Community",
+    "Name": "Trifoia",
+    "Link": "http://trifoia.com",
+    "LogoURL": "logo_trifoia.png",
+    "logo for print": ""
+  },
+  {
+    "Level": "Community",
+    "Name": "Eugene Maker Space",
+    "Link": "http://eugenemakerspace.com",
+    "LogoURL": "",
     "logo for print": ""
   }
 ]
