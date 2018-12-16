@@ -1,10 +1,13 @@
 module.exports = {
   siteMetadata: {
     title: 'Open Eugene Festival',
+    description: 'Information for Open Eugene Fest 2018',
+    siteUrl: 'https://openeugene.org'
   },
   pathPrefix: '/OpenEugeneFestivalWeb',
   plugins: [
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-sitemap',
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -17,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-starter-default',
-        short_name: 'starter',
+        name: 'Open Eugene Fest',
+        short_name: 'OpenEugene',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',
