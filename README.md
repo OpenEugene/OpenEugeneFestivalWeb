@@ -11,7 +11,7 @@ To get started, clone and...
 
 ```sh
 npm install
-npx gatsby develop
+npm gatsby develop
 ```
 
 ## Deploy
