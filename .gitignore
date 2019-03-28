@@ -71,3 +71,4 @@ yarn-error.log
 
 \.vs/
 .vscode
+.idea
